@@ -20,7 +20,7 @@ The game will restart background soundtracks after they have ended during gamepl
 
 ## Credits
 
-This project uses both **psxavenc** and **xainterleave** to perform the encode process. The source code of these programs was gathered from the original [candyk-psx-tools repository](https://github.com/ChenThread/candyk-psx).
+This project uses both **psxavenc** and **xainterleave** to perform the encode process, which are licensed under the [zlib](https://github.com/ChenThread/candyk-psx/blob/master/LICENSE) license. The source code for **libpsxav** was gathered from the original [candyk-psx-tools repository](https://github.com/ChenThread/candyk-psx) and compiled to Web Assembly.
 
 - Copyright (c) 2019, 2020 Adrian "asie" Siekierka
 - Copyright (c) 2019 Ben "GreaseMonkey" Russell
